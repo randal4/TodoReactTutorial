@@ -1,0 +1,26 @@
+li {
+  list-style-type: none;
+  padding: 3px;
+  cursor: pointer;
+  font-family: 'Proza Libre', sans-serif;
+  border-bottom: 1px black solid;
+}
+
+.inline{
+  display: inline;
+}
+
+.float-right{
+  float: right;
+}
+
+i {
+  margin: 5px;
+}
+
+.complete {
+  text-decoration: line-through;
+}
+
+.incomplete {
+}

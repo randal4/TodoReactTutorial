@@ -1,0 +1,10 @@
+#todoItemsList {
+  max-width: 700px;
+  margin: auto;
+}
+ul {
+  border-radius: 5px;
+  border: 1px black solid;
+  padding: 60px;
+  min-height: 200px;
+}
